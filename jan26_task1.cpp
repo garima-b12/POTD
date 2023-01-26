@@ -26,6 +26,6 @@ public:
     }
 };
 
-/*	TC: O()
-	SC: O()
+/*	TC: O(n)
+	SC: O(1)
 */
